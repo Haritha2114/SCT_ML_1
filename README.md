@@ -17,10 +17,7 @@ Price vs Area Regression Line
 Linear Regression finds a straight-line relationship between inputs (features) and the output (target).
 In our case:
 
-
-
-price
-=
+price =
 𝛽
 0
 +
@@ -53,6 +50,7 @@ price=β
 3
 ​
  ⋅bathrooms+ϵ
+
 Where:
 
 𝛽
