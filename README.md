@@ -48,8 +48,6 @@ bathrooms
 
 Where:
 
-𝛽
-0
 β 
 0
 ​
@@ -63,22 +61,13 @@ Where:
 ,
 𝛽
 3
-β 
-1
-​
- ,β 
-2
-​
- ,β 
-3
 ​
   = Coefficients (impact of each feature on price)
 
-𝜖
 ϵ = Error term (difference between actual and predicted price)
 
 Goal: Find the best 
-𝛽
+
 β values that minimize the Mean Squared Error (MSE):
 
 MSE= 
