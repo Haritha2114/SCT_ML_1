@@ -2,7 +2,7 @@
 🏠 House Price Prediction using Linear Regression
 This project predicts house prices based on area, number of bedrooms, and number of bathrooms using a Linear Regression model. It also visualizes the data and evaluates the model’s performance.
 
-📌 Features
+**📌 Features**
 1.Loads housing dataset (Housing.csv)
 2.Selects relevant features: Area, Bedrooms, Bathrooms
 3.Splits data into Training and Testing sets
@@ -13,7 +13,7 @@ Actual vs Predicted Prices Scatter Plot
 Residuals Distribution Plot
 Price vs Area Regression Line
 
-📐 The Math Behind Linear Regression
+**📐 The Math Behind Linear Regression**
 Linear Regression finds a straight-line relationship between inputs (features) and the output (target).
 In our case:
 
@@ -146,7 +146,7 @@ i
 ​
   = Predicted price
 
-🛠 Technologies Used
+**🛠 Technologies Used**
 Python 🐍
 
 Pandas – Data manipulation
