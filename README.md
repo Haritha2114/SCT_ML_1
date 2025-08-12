@@ -37,19 +37,6 @@ bedrooms
 bathrooms
 +
 𝜖
-price=β 
-0
-​
- +β 
-1
-​
- ⋅area+β 
-2
-​
- ⋅bedrooms+β 
-3
-​
- ⋅bathrooms+ϵ
 
 Where:
 
@@ -105,16 +92,11 @@ Where:
 
 𝑦
 𝑖
-y 
-i
 ​ = Actual price
 
 𝑦
 ^
 𝑖
-y
-^
-​i
 ​= Predicted price
 
 **🛠 Technologies Used**
