@@ -14,8 +14,11 @@ This project predicts house prices based on area, number of bedrooms, and number
 5.Evaluates model performance using Mean Squared Error and R² score
 
 6.Generates useful plots:
+
 Actual vs Predicted Prices Scatter Plot
+
 Residuals Distribution Plot
+
 Price vs Area Regression Line
 
 **📐 The Math Behind Linear Regression**
@@ -103,7 +106,7 @@ Where:
 
 **🛠 Technologies Used**
 
-Python 🐍
+Python 
 
 Pandas – Data manipulation
 
