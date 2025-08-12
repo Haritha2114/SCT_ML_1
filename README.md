@@ -86,24 +86,6 @@ Goal: Find the best
 𝛽
 β values that minimize the Mean Squared Error (MSE):
 
-
-MSE =1
-
-𝑛
-∑
-𝑖
-=
-1
-𝑛
-(
-𝑦
-𝑖
-−
-𝑦
-^
-𝑖
-)
-2
 MSE= 
 n
 1
