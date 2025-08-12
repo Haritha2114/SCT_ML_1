@@ -3,6 +3,7 @@
 This project predicts house prices based on area, number of bedrooms, and number of bathrooms using a Linear Regression model. It also visualizes the data and evaluates the model’s performance.
 
 **📌 Features**
+
 1.Loads housing dataset (Housing.csv)
 
 2.Selects relevant features: Area, Bedrooms, Bathrooms
