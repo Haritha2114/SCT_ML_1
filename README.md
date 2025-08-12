@@ -17,6 +17,8 @@ Price vs Area Regression Line
 Linear Regression finds a straight-line relationship between inputs (features) and the output (target).
 In our case:
 
+
+
 price
 =
 𝛽
@@ -147,6 +149,7 @@ i
   = Predicted price
 
 **🛠 Technologies Used**
+
 Python 🐍
 
 Pandas – Data manipulation
