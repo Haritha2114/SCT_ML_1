@@ -89,23 +89,16 @@ Goal: Find the best
 MSE= 
 n
 1
-​
-  
-i=1
+​i=1
 ∑
 n
-​
- (y 
+​(y 
 i
-​
- − 
+​ − 
 y
 ^
-​
-  
-i
-​
- ) 
+​i
+​) 
 2
  
 Where:
@@ -114,19 +107,15 @@ Where:
 𝑖
 y 
 i
-​
-  = Actual price
+​ = Actual price
 
 𝑦
 ^
 𝑖
 y
 ^
-​
-  
-i
-​
-  = Predicted price
+​i
+​= Predicted price
 
 **🛠 Technologies Used**
 
